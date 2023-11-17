@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SerialScheduler (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SerialScheduler (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

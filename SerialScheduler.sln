@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialScheduler", "SerialScheduler\SerialScheduler.csproj", "{FA51A16C-70E6-4896-947D-1FB17A93D597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Debug|ARM64.Build.0 = Debug|ARM64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Debug|x64.ActiveCfg = Debug|x64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Debug|x64.Build.0 = Debug|x64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Debug|x64.Deploy.0 = Debug|x64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Debug|x86.ActiveCfg = Debug|x86
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Debug|x86.Build.0 = Debug|x86
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Debug|x86.Deploy.0 = Debug|x86
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Release|ARM64.ActiveCfg = Release|ARM64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Release|ARM64.Build.0 = Release|ARM64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Release|ARM64.Deploy.0 = Release|ARM64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Release|x64.ActiveCfg = Release|x64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Release|x64.Build.0 = Release|x64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Release|x64.Deploy.0 = Release|x64
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Release|x86.ActiveCfg = Release|x86
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Release|x86.Build.0 = Release|x86
+		{FA51A16C-70E6-4896-947D-1FB17A93D597}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EFF02AD-2CD8-47F8-865A-F81C8F60A4FB}
+	EndGlobalSection
+EndGlobal
